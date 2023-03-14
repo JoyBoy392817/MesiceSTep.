@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKiYwnwOAajBN60FlX64A5Fpf/P/31a8DhwPRMHfveyBnAa148W2Xxru4eY8kBEl1dGOHlb8h5Ki0YnSK4XjOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.prchlik\\source\\repos\\Měření teplot\\Měření teplot\\Měření teplot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.prchlik\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\daniel.prchlik\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
