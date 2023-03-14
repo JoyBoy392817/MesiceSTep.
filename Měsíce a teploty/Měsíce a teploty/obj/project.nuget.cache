@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vv5zRp4l8eIeDGqo7Pdfct/0mWcfPsE04b1ctzfON/+7Nc0a/R76rACv20OFwP72UJgbcyxe5B3SeU9wCdDw6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.prchlik\\source\\repos\\Měsíce a teploty\\Měsíce a teploty\\Měsíce a teploty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.prchlik\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\daniel.prchlik\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
